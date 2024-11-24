@@ -1,0 +1,1 @@
+Run the websocket using py main.py (Do not run it by double click), after you do it go to the desired browser and click CTRL+SHIFT+I, and paste the desired javascript code, after typing it click to the monkeytype website and let it focus to the words, and boom! it will type 3 words per second!
